@@ -244,7 +244,7 @@ sm.qqplot(dt['Age'],line='45')
 plt.show()
 ```
 
-![322715090-1b2895a0-fb43-40c3-9af3-efd8917d9e6d](https://github.com/Sudhirr5/EXNO-3-DS/assets/139332214/c9971fc2-0f26-4e52-a226-21a78bcacd4b)
+![322715022-3fec8566-0fbc-4f28-93b7-7e731dd97df5](https://github.com/Sudhirr5/EXNO-3-DS/assets/139332214/48ce5181-b027-4d79-a5b7-8f392117fad7)
 
 ```python
 sm.qqplot(dt['Age_1'],line='45')
