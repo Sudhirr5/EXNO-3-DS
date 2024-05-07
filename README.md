@@ -1,4 +1,4 @@
-## EXNO-3-DS
+# EX:3 Feature Encoding and Transformation
 
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
